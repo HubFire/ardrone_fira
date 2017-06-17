@@ -12,7 +12,7 @@ Download and make project
     ```
     cd  ~/catkin_ws/src
     git clone https://github.com/HubFire/ardrone_fira.git
-    cd  ~/tcatkin_ws/
+    cd  ~/catkin_ws/
     catkin_make
     source devel/setup.bash
     ```
