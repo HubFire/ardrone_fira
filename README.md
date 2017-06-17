@@ -10,7 +10,7 @@ gazebo : 2.2.3
 Download and make project
 
     ```
-    cd  ~/tcatkin_ws/src
+    cd  ~/catkin_ws/src
     git clone https://github.com/HubFire/ardrone_fira.git
     cd  ~/tcatkin_ws/
     catkin_make
